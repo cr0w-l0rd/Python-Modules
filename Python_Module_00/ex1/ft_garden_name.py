@@ -4,6 +4,6 @@
 # Status: Growing well!
 
 def ft_garden_name():
-	gname = input("Enter garden name: ")
-	print(f"Garden: {gname}")
-	print("Status: Growing well!")
+    gname = input("Enter garden name: ")
+    print(f"Garden: {gname}")
+    print("Status: Growing well!")
