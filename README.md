@@ -36,3 +36,6 @@ This is my first time learning python. I've always seen people use it online but
 
 The`__str__()` method is a special method that controls what is returned when the **object** is printed
 
+### Exercise 6
+
+https://stackoverflow.com/questions/739654/how-do-i-make-function-decorators-and-chain-them-together
